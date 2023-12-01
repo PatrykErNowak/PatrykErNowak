@@ -1,5 +1,37 @@
-### Hi there 👋
+# Hello, I'm Patrick👋
 
+A novice frontend developer who does not give up and whose motto is "Nothing is impossible, it all depends on how much time you have to spend on it"
+
+- 🔭 I am currently learning Advanced JavaScript
+
+- 🌱 What I will do next? I will learn React JS
+
+- 🌍 My Portfolio https://pendev.me/
+
+- 👨‍🦲 LinkedIn https://www.linkedin.com/in/patryk-ernest-nowak/
+
+- ⚡ Hobbies WebDev, Martial Arts, Mountains, Winter Sports
+
+## Comercial Projects 💻
+
+- www.tenvape.pl
+
+## Challenges 📝
+
+- [Frontend Mentor Challenges](https://github.com/PatrykErNowak/Frontend-Mentor-Challenges/tree/test-make-documentation)
+
+
+## Tech stack 🛠️
+[![My Skills](https://skillicons.dev/icons?i=html)](https://www.w3.org/html/) 
+[![My Skills](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/) 
+[![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) \
+[![My Skills](https://skillicons.dev/icons?i=sass)](https://sass-lang.com) 
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com) 
+[![My Skills](https://skillicons.dev/icons?i=gulp)](https://gulpjs.com) 
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
+ 
+ 
 <!--
 **PatrykErNowak/PatrykErNowak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
