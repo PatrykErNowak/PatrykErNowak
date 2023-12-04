@@ -10,7 +10,7 @@ A novice frontend developer who does not give up and whose motto is "Nothing is 
 
 - 👨‍🦲 LinkedIn https://www.linkedin.com/in/patryk-ernest-nowak/
 
-- ⚡ Hobbies WebDev, Martial Arts, Mountains, Winter Sports
+- ⚡ Hobbies WebDev, Games, Formula 1, Winter Sports
 
 ## Comercial Projects 💻
 
@@ -18,7 +18,7 @@ A novice frontend developer who does not give up and whose motto is "Nothing is 
 
 ## Challenges 📝
 
-- [Frontend Mentor Challenges](https://github.com/PatrykErNowak/Frontend-Mentor-Challenges/tree/test-make-documentation)
+- [Frontend Mentor Challenges](https://github.com/PatrykErNowak/Frontend-Mentor-Challenges/)
 
 
 ## Tech stack 🛠️
