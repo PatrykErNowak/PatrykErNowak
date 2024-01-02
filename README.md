@@ -26,6 +26,7 @@ A novice frontend developer who does not give up and whose motto is "Nothing is 
 [![My Skills](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/) 
 [![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) \
 [![My Skills](https://skillicons.dev/icons?i=sass)](https://sass-lang.com) 
+[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com) 
 [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
 [![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com) 
 [![My Skills](https://skillicons.dev/icons?i=gulp)](https://gulpjs.com) 
