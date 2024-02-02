@@ -31,6 +31,7 @@ A novice frontend developer who does not give up and whose motto is "Nothing is 
 [![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com) 
 [![My Skills](https://skillicons.dev/icons?i=gulp)](https://gulpjs.com) 
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
+[![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com)
  
  
 <!--
