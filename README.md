@@ -2,9 +2,9 @@
 
 A novice frontend developer who does not give up and whose motto is "Nothing is impossible, it all depends on how much time you have to spend on it"
 
-- 🔭 I am currently learning TypeScript
+- 🔭 I am currently learning React JS
 
-- 🌱 What I will do next? I will learn React JS
+- 🌱 What I will do next? I will learn Next.js
 
 - 🌍 My Portfolio https://pendev.me/
 
