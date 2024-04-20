@@ -30,7 +30,8 @@ A novice frontend developer who does not give up and whose motto is "Nothing is 
 [![My Skills](https://skillicons.dev/icons?i=sass)](https://sass-lang.com) 
 [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com) 
 [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com) \
-[![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com) 
+[![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![My Skills](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
 [![My Skills](https://skillicons.dev/icons?i=npm)](https://www.npmjs.com)
 [![My Skills](https://skillicons.dev/icons?i=vite)](https://vitejs.dev) 
 [![My Skills](https://skillicons.dev/icons?i=gulp)](https://gulpjs.com) 
