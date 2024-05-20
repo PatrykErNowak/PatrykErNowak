@@ -17,20 +17,30 @@ A novice frontend developer who does not give up and whose motto is "Nothing is 
 - www.tenvape.pl
 - www.m-data.me
 
+## Personal Projects 🧑‍💻
+
+- [AI City Break Chat](https://github.com/PatrykErNowak/city-break)
+
 ## Challenges 📝
 
 - [Frontend Mentor Challenges](https://github.com/PatrykErNowak/Frontend-Mentor-Challenges/)
 
 
 ## Tech stack 🛠️
+#### Core Tools ⬇️
 [![My Skills](https://skillicons.dev/icons?i=html)](https://www.w3.org/html/) 
 [![My Skills](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/) 
 [![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [![My Skills](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org) 
-[![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev) \
+&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev) 
+[![My Skills](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org) 
+[![My Skills](https://skillicons.dev/icons?i=redux)](https://redux.js.org) 
+#### Styling ⬇️
 [![My Skills](https://skillicons.dev/icons?i=sass)](https://sass-lang.com) 
 [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com) 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com) \
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com) 
+#### Other Tools ⬇️
 [![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com)
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
 [![My Skills](https://skillicons.dev/icons?i=npm)](https://www.npmjs.com)
@@ -39,7 +49,7 @@ A novice frontend developer who does not give up and whose motto is "Nothing is 
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
 [![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com)
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
- 
+
  
 <!--
 **PatrykErNowak/PatrykErNowak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
