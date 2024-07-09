@@ -39,7 +39,11 @@ A novice frontend developer who does not give up and whose motto is "Nothing is 
 #### Styling ⬇️
 [![My Skills](https://skillicons.dev/icons?i=sass)](https://sass-lang.com) 
 [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com) 
+[![My Skills](https://skillicons.dev/icons?i=styledcomponents)](https://styled-components.com) 
 [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com) 
+#### Testing ⬇️
+[![My Skills](https://skillicons.dev/icons?i=jest)](https://jestjs.io) 
+[![My Skills](https://skillicons.dev/icons?i=vitest)](https://vitest.dev) 
 #### Other Tools ⬇️
 [![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com)
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
@@ -49,6 +53,7 @@ A novice frontend developer who does not give up and whose motto is "Nothing is 
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
 [![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com)
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
+[![My Skills](https://skillicons.dev/icons?i=supabase)](https://supabase.com)
 
  
 <!--
