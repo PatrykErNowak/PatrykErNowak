@@ -19,6 +19,7 @@ A novice frontend developer who does not give up and whose motto is "Nothing is 
 
 ## Personal Projects 🧑‍💻
 
+- [BeFit Tracker - app](https://github.com/PatrykErNowak/befit-tracker)
 - [AI City Break Chat](https://github.com/PatrykErNowak/city-break)
 
 ## Challenges 📝
